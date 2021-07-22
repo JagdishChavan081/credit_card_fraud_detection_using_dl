@@ -18,6 +18,7 @@ It contains only numerical input variables which are the result of a PCA transfo
     
 <h3>Programming Language : Python 3.8.10</h3>
 <h3>Code Editor : Jupyter Notebook, VS Code </h3>
+<h3>Algorithm: CNN</h3>   
   
   
   <h2>Libraries/Modules Used</h2>
