@@ -1,4 +1,4 @@
-
+<Center><img src="https://github.com/JagdishChavan081/credit_card_fraud_detection_using_dl/blob/main/1_resource/credit.png" width="900" height="500"></center>
 <center><h1>Title: Credit Card Fraud Detection Using Deep Learning.</h2></center>
 <article>
 <p>Credit card payment is a popular mode of online transaction. It is one of the simplest and easiest mode of payment
